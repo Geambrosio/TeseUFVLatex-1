@@ -1,2 +1,3 @@
 # TeseUFVLatex
-Modelo de tese/disertação da UFV para Latex - AINDA EM FASE DE TESTES
+Modelo de tese/disertação da Universidade Federal de Viçosa para LaTeZ
+Projeto em desenvolvimento.
