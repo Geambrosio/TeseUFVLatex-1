@@ -1,0 +1,63 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Cristaldo2012}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Cristaldo}{C.}%
+     {P.~F.}{P.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rosa}{R.}%
+     {C.~S.}{C.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Florencio}{F.}%
+     {D.~F.}{D.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marins}{M.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {DeSouza}{D.}%
+     {O.}{O.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CPF+1}
+  \strng{fullhash}{CPFRCSFDFMADO1}
+  \field{labelyear}{2012}
+  \field{sortinit}{C}
+  \field{pages}{541\bibrangedash 548}
+  \field{title}{Termitarium volume as a determinant of invasion by obligatory
+  termitophiles and inquilines in the nests of \textit{Constrictotermes
+  cyphergaster} ({T}ermitidae, {N}asutitermitinae)}
+  \field{volume}{59}
+  \field{journaltitle}{Insectes Sociaux}
+  \field{year}{2012}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
