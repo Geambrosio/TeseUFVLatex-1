@@ -4,3 +4,5 @@ Modelo de Tese/Disertação da Universidade Federal de Viçosa, Departamento de 
 _Projeto em desenvolvimento._
 
 **Versão: 0.3**
+
+![]({{site.baseurl}}/)
