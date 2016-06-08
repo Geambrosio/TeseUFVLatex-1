@@ -1,4 +1,6 @@
 # TeseUFVLatex
-Modelo de tese/disertação da Universidade Federal de Viçosa para LaTeX.
+Modelo de Tese/Disertação da Universidade Federal de Viçosa para LaTeX.
 
-Projeto em desenvolvimento. **Versão: 0.3**
+_Projeto em desenvolvimento._
+
+**Versão: 0.3**
