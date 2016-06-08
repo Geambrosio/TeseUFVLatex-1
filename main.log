@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/TeX Live for SUSE Linux) (preloaded format=pdflatex 2016.4.19)  21 APR 2016 22:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2016.5.7)  8 JUN 2016 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 79 languages loaded.
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (/usr/share/texmf/tex/latex/base/report.cls
-Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texmf/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -25,19 +25,19 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 (/usr/share/texmf/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
+Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
 (/usr/share/texmf/tex/latex/base/utf8.def
-File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 (/usr/share/texmf/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -187,7 +187,7 @@ Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 (/usr/share/texmf/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00B8 (decimal 184)
@@ -218,7 +218,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 (/usr/share/texmf/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -242,13 +242,13 @@ Now handling font encoding U ...
    defining Unicode char U+2423 (decimal 9251)
 ))
 (/usr/share/texmf/tex/generic/babel/babel.sty
-Package: babel 2015/08/03 3.9m The Babel package
+Package: babel 2013/05/16 v3.9f The Babel package
 
 (/usr/share/texmf/tex/generic/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
 (/usr/share/texmf/tex/generic/babel/babel.def
-File: babel.def 2015/08/03 3.9m Babel common definitions
+File: babel.def 2013/05/16 v3.9f Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
@@ -263,7 +263,7 @@ Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (/usr/share/texmf/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 (/usr/share/texmf/tex/generic/oberdiek/ifpdf.sty
@@ -313,10 +313,10 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box27
 )
 (/usr/share/texmf/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
@@ -324,7 +324,7 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (/usr/share/texmf/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
 (/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -344,7 +344,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 (/usr/share/texmf/tex/latex/tools/array.sty
-Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen114
 \extrarowheight=\dimen115
 \NC@list=\toks20
@@ -352,7 +352,7 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \backup@length=\skip53
 )
 (/usr/share/texmf/tex/latex/tools/longtable.sty
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip54
 \LTright=\skip55
 \LTpre=\skip56
@@ -373,12 +373,12 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 (/usr/share/texmf/tex/latex/graphics/color.sty
-Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
 (/usr/share/texmf/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 142.
+Package color Info: Driver file: pdftex.def on input line 130.
 )
 \everycr=\toks22
 \minrowclearance=\skip58
@@ -551,7 +551,7 @@ Package hyperref Info: Bookmarks ON on input line 4688.
 
 (/usr/share/texmf/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen141
@@ -587,228 +587,269 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip62
 )
 (/usr/share/texmf/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2015/07/19 v0.5a Insert pages of external PDF documents (AM)
+Package: pdfpages 2012/08/31 v0.4t Insert pages of external PDF documents (AM)
 
 (/usr/share/texmf/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texmf/tex/latex/tools/calc.sty
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count125
 \calc@Bcount=\count126
 \calc@Adimen=\dimen144
 \calc@Bdimen=\dimen145
 \calc@Askip=\skip63
 \calc@Bskip=\skip64
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count127
 \calc@Cskip=\skip65
 )
 (/usr/share/texmf/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
 )
-\AM@pagewidth=\dimen146
-\AM@pageheight=\dimen147
-
 (/usr/share/texmf/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2015/07/19 v0.5a Pdfpages driver for pdfTeX (AM)
-)
-(/usr/share/texmf/tex/latex/oberdiek/pdflscape.sty
-Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+File: pppdftex.def 2012/08/31 v0.4t Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box34
 \AM@toc@title=\toks28
 \c@AM@survey=\count128
 \AM@templatesizebox=\box35
 )
-(/usr/share/texmf/tex/latex/fncychap/fncychap.sty
-Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
-\RW=\skip66
-\mylen=\skip67
-\myhi=\skip68
-\px=\skip69
-\py=\skip70
-\pyy=\skip71
-\pxx=\skip72
+(/usr/share/texmf/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip66
+\cftbeforetoctitleskip=\skip67
+\cftaftertoctitleskip=\skip68
+\cftbeforepartskip=\skip69
+\cftpartnumwidth=\skip70
+\cftpartindent=\skip71
+\cftbeforechapskip=\skip72
+\cftchapindent=\skip73
+\cftchapnumwidth=\skip74
+\cftbeforesecskip=\skip75
+\cftsecindent=\skip76
+\cftsecnumwidth=\skip77
+\cftbeforesubsecskip=\skip78
+\cftsubsecindent=\skip79
+\cftsubsecnumwidth=\skip80
+\cftbeforesubsubsecskip=\skip81
+\cftsubsubsecindent=\skip82
+\cftsubsubsecnumwidth=\skip83
+\cftbeforeparaskip=\skip84
+\cftparaindent=\skip85
+\cftparanumwidth=\skip86
+\cftbeforesubparaskip=\skip87
+\cftsubparaindent=\skip88
+\cftsubparanumwidth=\skip89
+\cftbeforeloftitleskip=\skip90
+\cftafterloftitleskip=\skip91
+\cftbeforefigskip=\skip92
+\cftfigindent=\skip93
+\cftfignumwidth=\skip94
+\c@lofdepth=\count129
+\c@lotdepth=\count130
+\cftbeforelottitleskip=\skip95
+\cftafterlottitleskip=\skip96
+\cftbeforetabskip=\skip97
+\cfttabindent=\skip98
+\cfttabnumwidth=\skip99
+)
+(/usr/share/texmf/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box36
+\beforetitleunit=\skip100
+\aftertitleunit=\skip101
+\ttl@plus=\dimen146
+\ttl@minus=\dimen147
+\ttl@toksa=\toks29
+\titlewidth=\dimen148
+\titlewidthlast=\dimen149
+\titlewidthfirst=\dimen150
 )
 (/usr/share/texmf/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2015/04/19 v3.0 programmable bibliographies (PK/JW/AB)
+Package: biblatex 2013/07/15 v2.7a programmable bibliographies (PK/JW/AB)
 
 (/usr/share/texmf/tex/latex/biblatex/biblatex1.sty
-Package: biblatex1 2015/04/19 v3.0 programmable bibliographies (bibtex) (PK/JW/
-AB)
+Package: biblatex1 2013/07/15 v2.7a programmable bibliographies (bibtex) (PK/JW
+/AB)
 
 (/usr/share/texmf/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count129
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/share/texmf/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count131
+)
+\etb@tempcnta=\count132
 )
 (/usr/share/texmf/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count130
+\lrq@indent=\count133
 
 (/usr/share/texmf/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count131
-\c@listtotal=\count132
-\c@listcount=\count133
-\c@liststart=\count134
-\c@liststop=\count135
-\c@citecount=\count136
-\c@citetotal=\count137
-\c@multicitecount=\count138
-\c@multicitetotal=\count139
-\c@instcount=\count140
-\c@maxnames=\count141
-\c@minnames=\count142
-\c@maxitems=\count143
-\c@minitems=\count144
-\c@citecounter=\count145
-\c@savedcitecounter=\count146
-\c@uniquelist=\count147
-\c@uniquename=\count148
-\c@refsection=\count149
-\c@refsegment=\count150
-\c@maxextrayear=\count151
-\c@maxextraalpha=\count152
-\c@abbrvpenalty=\count153
-\c@highnamepenalty=\count154
-\c@lownamepenalty=\count155
-\c@maxparens=\count156
-\c@parenlevel=\count157
-\blx@tempcnta=\count158
-\blx@tempcntb=\count159
-\blx@tempcntc=\count160
-\blx@maxsection=\count161
-\blx@maxsegment=\count162
-\blx@notetype=\count163
-\blx@parenlevel@text=\count164
-\blx@parenlevel@foot=\count165
-\labelnumberwidth=\skip73
-\labelalphawidth=\skip74
-\shorthandwidth=\skip75
-\biblabelsep=\skip76
-\bibitemsep=\skip77
-\bibnamesep=\skip78
-\bibinitsep=\skip79
-\bibparsep=\skip80
-\bibhang=\skip81
+\c@tabx@nest=\count134
+\c@listtotal=\count135
+\c@listcount=\count136
+\c@liststart=\count137
+\c@liststop=\count138
+\c@citecount=\count139
+\c@citetotal=\count140
+\c@multicitecount=\count141
+\c@multicitetotal=\count142
+\c@instcount=\count143
+\c@maxnames=\count144
+\c@minnames=\count145
+\c@maxitems=\count146
+\c@minitems=\count147
+\c@citecounter=\count148
+\c@savedcitecounter=\count149
+\c@uniquelist=\count150
+\c@uniquename=\count151
+\c@refsection=\count152
+\c@refsegment=\count153
+\c@maxextrayear=\count154
+\c@maxextraalpha=\count155
+\c@abbrvpenalty=\count156
+\c@highnamepenalty=\count157
+\c@lownamepenalty=\count158
+\c@maxparens=\count159
+\c@parenlevel=\count160
+\blx@tempcnta=\count161
+\blx@tempcntb=\count162
+\blx@tempcntc=\count163
+\blx@maxsection=\count164
+\blx@maxsegment=\count165
+\blx@notetype=\count166
+\blx@parenlevel@text=\count167
+\blx@parenlevel@foot=\count168
+\labelnumberwidth=\skip102
+\labelalphawidth=\skip103
+\shorthandwidth=\skip104
+\biblabelsep=\skip105
+\bibitemsep=\skip106
+\bibnamesep=\skip107
+\bibinitsep=\skip108
+\bibparsep=\skip109
+\bibhang=\skip110
 \blx@auxin=\read1
 \blx@auxout=\write3
-\c@mincomprange=\count166
-\c@maxcomprange=\count167
-\c@mincompwidth=\count168
-\c@labelname=\count169
-\c@savedlabelname=\count170
-\c@author=\count171
-\c@savedauthor=\count172
-\c@shortauthor=\count173
-\c@savedshortauthor=\count174
-\c@editor=\count175
-\c@savededitor=\count176
-\c@editora=\count177
-\c@savededitora=\count178
-\c@editorb=\count179
-\c@savededitorb=\count180
-\c@editorc=\count181
-\c@savededitorc=\count182
-\c@shorteditor=\count183
-\c@savedshorteditor=\count184
-\c@bookauthor=\count185
-\c@savedbookauthor=\count186
-\c@translator=\count187
-\c@savedtranslator=\count188
-\c@annotator=\count189
-\c@savedannotator=\count190
-\c@commentator=\count191
-\c@savedcommentator=\count192
-\c@introduction=\count193
-\c@savedintroduction=\count194
-\c@foreword=\count195
-\c@savedforeword=\count196
-\c@afterword=\count197
-\c@savedafterword=\count198
-\c@holder=\count199
-\c@savedholder=\count200
-\c@namea=\count201
-\c@savednamea=\count202
-\c@nameb=\count203
-\c@savednameb=\count204
-\c@namec=\count205
-\c@savednamec=\count206
-\c@institution=\count207
-\c@savedinstitution=\count208
-\c@language=\count209
-\c@savedlanguage=\count210
-\c@location=\count211
-\c@savedlocation=\count212
-\c@organization=\count213
-\c@savedorganization=\count214
-\c@origlocation=\count215
-\c@savedoriglocation=\count216
-\c@origpublisher=\count217
-\c@savedorigpublisher=\count218
-\c@pageref=\count219
-\c@savedpageref=\count220
-\c@publisher=\count221
-\c@savedpublisher=\count222
-\c@lista=\count223
-\c@savedlista=\count224
-\c@listb=\count225
-\c@savedlistb=\count226
-\c@listc=\count227
-\c@savedlistc=\count228
-\c@listd=\count229
-\c@savedlistd=\count230
-\c@liste=\count231
-\c@savedliste=\count232
-\c@listf=\count233
-\c@savedlistf=\count266
+\c@mincomprange=\count169
+\c@maxcomprange=\count170
+\c@mincompwidth=\count171
+\c@labelname=\count172
+\c@savedlabelname=\count173
+\c@author=\count174
+\c@savedauthor=\count175
+\c@shortauthor=\count176
+\c@savedshortauthor=\count177
+\c@editor=\count178
+\c@savededitor=\count179
+\c@editora=\count180
+\c@savededitora=\count181
+\c@editorb=\count182
+\c@savededitorb=\count183
+\c@editorc=\count184
+\c@savededitorc=\count185
+\c@shorteditor=\count186
+\c@savedshorteditor=\count187
+\c@bookauthor=\count188
+\c@savedbookauthor=\count189
+\c@translator=\count190
+\c@savedtranslator=\count191
+\c@annotator=\count192
+\c@savedannotator=\count193
+\c@commentator=\count194
+\c@savedcommentator=\count195
+\c@introduction=\count196
+\c@savedintroduction=\count197
+\c@foreword=\count198
+\c@savedforeword=\count199
+\c@afterword=\count200
+\c@savedafterword=\count201
+\c@holder=\count202
+\c@savedholder=\count203
+\c@namea=\count204
+\c@savednamea=\count205
+\c@nameb=\count206
+\c@savednameb=\count207
+\c@namec=\count208
+\c@savednamec=\count209
+\c@institution=\count210
+\c@savedinstitution=\count211
+\c@language=\count212
+\c@savedlanguage=\count213
+\c@location=\count214
+\c@savedlocation=\count215
+\c@organization=\count216
+\c@savedorganization=\count217
+\c@origlocation=\count218
+\c@savedoriglocation=\count219
+\c@origpublisher=\count220
+\c@savedorigpublisher=\count221
+\c@pageref=\count222
+\c@savedpageref=\count223
+\c@publisher=\count224
+\c@savedpublisher=\count225
+\c@lista=\count226
+\c@savedlista=\count227
+\c@listb=\count228
+\c@savedlistb=\count229
+\c@listc=\count230
+\c@savedlistc=\count231
+\c@listd=\count232
+\c@savedlistd=\count233
+Normal \count register pool exhausted, switching to extended pool.
+\c@liste=\count277
+\c@savedliste=\count278
+\c@listf=\count279
+\c@savedlistf=\count280
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (/usr/share/texmf/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2015/04/19 v3.0 biblatex compatibility (PK/JW/AB)
+File: blx-compat.def 2013/07/15 v2.7a biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texmf/tex/latex/biblatex/biblatex.def
 File: biblatex.def 
-\c@textcitecount=\count267
-\c@textcitetotal=\count268
-\c@textcitemaxnames=\count269
-\c@biburlnumpenalty=\count270
-\c@biburlucpenalty=\count271
-\c@biburllcpenalty=\count272
-\c@smartand=\count273
+\c@textcitecount=\count281
+\c@textcitetotal=\count282
+\c@textcitemaxnames=\count283
+\c@biburlnumpenalty=\count284
+\c@biburlucpenalty=\count285
+\c@biburllcpenalty=\count286
+\c@smartand=\count287
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
 
 (/usr/share/texmf/tex/latex/biblatex/blx-natbib.def
-File: blx-natbib.def 2015/04/19 v3.0 biblatex compatibility (PK/JW/AB)
+File: blx-natbib.def 2013/07/15 v2.7a biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
 (/usr/share/texmf/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
+File: authoryear.bbx 2013/07/15 v2.7a biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texmf/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count274
-\c@bbx:relatedtotal=\count275
+File: standard.bbx 2013/07/15 v2.7a biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count288
+\c@bbx:relatedtotal=\count289
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
 
 (/usr/share/texmf/tex/latex/biblatex/cbx/authoryear.cbx
-File: authoryear.cbx 2015/04/19 v3.0 biblatex citation style (PK/JW/AB)
+File: authoryear.cbx 2013/07/15 v2.7a biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -827,36 +868,36 @@ Package biblatex Info: Trying to load language 'brazil'...
 Package biblatex Info: ... file 'brazil.lbx' found.
 
 (/usr/share/texmf/tex/latex/biblatex/lbx/brazil.lbx
-File: brazil.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
+File: brazil.lbx 2013/07/15 v2.7a biblatex localization (PK/JW/AB)
 Package biblatex Info: Trying to load language 'brazilian'...
 Package biblatex Info: ... file 'brazilian.lbx' found.
 
 (/usr/share/texmf/tex/latex/biblatex/lbx/brazilian.lbx
-File: brazilian.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
+File: brazilian.lbx 2013/07/15 v2.7a biblatex localization (PK/JW/AB)
 ))
 
-Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+Package biblatex Warning: 'babel' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count276
-\@quotereset=\count277
+\@quotelevel=\count290
+\@quotereset=\count291
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -894,17 +935,17 @@ LaTeX Font Info:    ... okay on input line 28.
 
 (/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count278
-\scratchdimen=\dimen148
-\scratchbox=\box36
-\nofMPsegments=\count279
-\nofMParguments=\count280
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count281
-\MPscratchDim=\dimen149
-\MPnumerator=\count282
-\makeMPintoPDFobject=\count283
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count292
+\scratchdimen=\dimen151
+\scratchbox=\box37
+\nofMPsegments=\count293
+\nofMParguments=\count294
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen152
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
+\everyMPtoPDFconversion=\toks31
 ) (/usr/share/texmf/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -920,8 +961,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box37
-Package hyperref Info: Link coloring OFF on input line 28.
+\AtBeginShipoutBox=\box38
+Package hyperref Info: Link coloring OFF on input line 35.
 
 (/usr/share/texmf/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -929,11 +970,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texmf/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count284
+\c@section@level=\count298
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
  (./main.out)
 (./main.out)
 \@outlinefile=\write4
@@ -950,14 +991,23 @@ Package biblatex Warning: Data encoding is 'utf8'.
 \openout3 = `main-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
+
+Package biblatex Warning: File 'main.bbl' created by wrong version.
+
 Package biblatex Info: ... file 'main.bbl' found.
 (./main.bbl)
+
+Package biblatex Warning: File 'main1-blx.bbl' created by wrong version.
+
 Package biblatex Info: ... file 'main1-blx.bbl' found.
- (./main1-blx.bbl)
+(./main1-blx.bbl)
+
+Package biblatex Warning: File 'main2-blx.bbl' created by wrong version.
+
 Package biblatex Info: ... file 'main2-blx.bbl' found.
- (./main2-blx.bbl)
-Package biblatex Info: Reference section=0 on input line 28.
-Package biblatex Info: Reference segment=0 on input line 28.
+(./main2-blx.bbl)
+Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference segment=0 on input line 35.
  (./preamble/cover.tex
 LaTeX Font Info:    Try loading font information for U+msa on input line 22.
 
@@ -983,24 +1033,21 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
  [1]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 6.
-
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 7.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 9.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 10.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 11.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 12.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 13.
 
 ) (./preamble/epigraph.tex
 
@@ -1032,8 +1079,6 @@ less on input line 7.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 8.
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 10.
 ) (./preamble/acknowledgements.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1064,9 +1109,6 @@ less on input line 7.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 8.
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 10.
-)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1074,56 +1116,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 25.
 [4
 
-]
-LaTeX Font Info:    Try loading font information for OT1+rm on input line 45.
-LaTeX Font Info:    No file OT1rm.fd. on input line 45.
-
-
-LaTeX Font Warning: Font shape `OT1/rm/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 45.
-
-(./main.toc)
+]) (./main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 46.
- [5
-
-] (./main.lof)
+(babel)             in language  on input line 54.
+ [5] (./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 48.
- [6
-
-] (./main.lot)
+(babel)             in language  on input line 57.
+ [6] (./main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 59.
  (./preamble/abstract.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-[7
-
-]
+[7]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 )
@@ -1134,15 +1162,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 69.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 69.
 [8
 
 ]
 Cap\'{\i }tulo 1.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 69.
 (./chapters/introduction.tex
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
@@ -1165,12 +1193,17 @@ Package biblatex Info: Reference section=1 on input line 10.
 
 Package biblatex Info: Setting label 'refsection:1' on input line 10.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 14.
+(babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 15.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 16.
-[9
+(babel)             in language  on input line 15.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.15 \newpage
+              [1
 
 ]
 
@@ -1180,13 +1213,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 33.
-[10]
+(babel)             in language  on input line 32.
+[2]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 35.
-Package biblatex Info: Reference section=0 on input line 37.
+(babel)             in language  on input line 34.
+Package biblatex Info: Reference section=0 on input line 36.
 )
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1195,13 +1228,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 72.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 62.
-[11]
+(babel)             in language  on input line 72.
+[3]
 Cap\'{\i }tulo 2.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 72.
 (./chapters/chapter02.tex
 Package biblatex Info: Reference section=2 on input line 1.
 \openout3 = `main2-blx.aux'.
@@ -1213,14 +1246,14 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 17.
- [12
+ [4
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 19.
 Package biblatex Info: Reference section=0 on input line 21.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1229,41 +1262,36 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 84.
-[13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+(babel)             in language  on input line 94.
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 64A08249856229F8840884788A8B48EC;621.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
+(rerunfilecheck)             Checksum: 1CB5B97C24B667F5256378952A07B6ED;469.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
- 13285 strings out of 493091
- 200700 string characters out of 6142992
- 406741 words of memory out of 5000000
- 16495 multiletter control sequences out of 15000+600000
- 9844 words of font info for 37 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 37i,12n,53p,943b,1422s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 13685 strings out of 493315
+ 206105 string characters out of 6145894
+ 412184 words of memory out of 5000000
+ 16865 multiletter control sequences out of 15000+600000
+ 9852 words of font info for 37 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 37i,12n,54p,962b,1443s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf
 /fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/
-amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.p
-fb>
-Output written on main.pdf (14 pages, 65558 bytes).
+amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (14 pages, 53007 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 

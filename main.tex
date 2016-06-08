@@ -1,28 +1,35 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Modelo criado por Vinícius Barros Rodrigues (viniciusbrbio@gmail.com)
-% versão 0.2
-% abril 2016
+% versão 0.3
+% Junho 2016
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Pacotes
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \documentclass[12pt]{report}
 \usepackage[utf8]{inputenc}
 \usepackage[brazilian,brazil]{babel}
 \usepackage[a4paper,left=4cm,right=3cm,bottom=2.5cm,top=2.8cm]{geometry}
-\usepackage{fancyhdr,setspace,float,graphicx,lscape,array,longtable,colortbl,amsmath,amssymb,booktabs,multirow,hyperref,pdfpages}
-\usepackage[Sonny]{fncychap}
+\usepackage{fancyhdr,setspace,float,graphicx,lscape,array,longtable,colortbl,amsmath,amssymb,booktabs,multirow,hyperref,pdfpages,tocloft,titlesec}
 \usepackage[backend=bibtex,style=authoryear,sorting=nyt,natbib=true]{biblatex}
-\ChNameVar{\Large\fontfamily{rm}}
-\ChNumVar{\Huge\fontfamily{rm}}
-\ChTitleVar{\Large\fontfamily{rm}}
-
+\renewcommand\cftloftitlefont{\Large\bfseries\hfill}
+\renewcommand\cftlottitlefont{\Large\bfseries\hfill}
+\renewcommand\cfttoctitlefont{\Large\bfseries\hfill}
+\titleformat{\chapter}[display]
+{\bfseries\Huge}
+{\filleft{\chaptertitlename} \Huge\thechapter}
+{1ex}
+{\titlerule
+\vspace{2ex}%
+\filright}
+[]
 %%%%%%%%%%%%%%%%%%%%%%%%%% 
-% Coloque o nome do seu arquivo bib aqui
+% Coloque o nome do seu arquivo .bib
 \addbibresource{references.bib}
 %%%%%%%%%%%%%%%%%%%%%%%%%% 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% 
 % Coloque suas imagens e gráficos na pasta images
 \graphicspath{{images/}}
-% Fique atento: não coloque o "caminho" das suas imagens no texto
 %%%%%%%%%%%%%%%%%%%%%%%%%% 
 
 \begin{document}
@@ -42,9 +49,12 @@
 \input{preamble/acknowledgements}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% SUMÁRIO %%%%%%%%%%%%%%%%%%%
+\normalsize
 \tableofcontents
+\newpage
 \listoffigures
 \addcontentsline{toc}{section}{\listfigurename}
+\newpage
 \listoftables
 \addcontentsline{toc}{section}{\listtablename}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -76,9 +86,9 @@
 % \input{chapters/appendix}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%% ADICIONANDO ANÁLISES ESTATÍSTICAS EM PDF %%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%% ADICIONANDO ANÁLISES ESTATÍSTICAS EM PDF %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Descomente e coloque o nome do seu arquivo
 %\includepdf[pages=-]{myfile.pdf}
-%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   
 \end{document}

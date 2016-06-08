@@ -2,26 +2,20 @@
 \defcounter {refsection}{0}\relax 
 \select@language {brazil}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Dedicat\IeC {\'o}ria}{ii}{Doc-Start}
+\contentsline {section}{Lista de Figuras}{vi}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Ep\IeC {\'\i }grafe}{iii}{section*.1}
+\contentsline {section}{Lista de Tabelas}{vii}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Agradecimentos}{iv}{section*.2}
+\contentsline {section}{Resumo}{viii}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Lista de Figuras}{vi}{section*.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Lista de Tabelas}{vii}{section*.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Resumo}{viii}{section*.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{9}{chapter.1}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}{chapter.1}
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{\numberline {1.1}Teste}{9}{section.1.1}
+\contentsline {section}{\numberline {1.1}Teste}{1}{section.1.1}
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{Refer\IeC {\^e}ncias}{11}{section*.5}
+\contentsline {section}{Refer\IeC {\^e}ncias}{3}{section*.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}T\IeC {\'\i }tulo do cap dois}{12}{chapter.2}
+\contentsline {chapter}{\numberline {2}T\IeC {\'\i }tulo do cap dois}{4}{chapter.2}
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {2.1}Nome}{12}{section.2.1}
+\contentsline {section}{\numberline {2.1}Nome}{4}{section.2.1}
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{Refer\IeC {\^e}ncias}{13}{section*.7}
+\contentsline {section}{Refer\IeC {\^e}ncias}{5}{section*.2}
