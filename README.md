@@ -5,4 +5,4 @@ _Projeto em desenvolvimento._
 
 **Versão: 0.3**
 
-![]({{site.baseurl}}/)
+![]({{site.baseurl}}//main.jpg)
