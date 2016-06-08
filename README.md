@@ -5,4 +5,4 @@ _Projeto em desenvolvimento._
 
 **Versão: 0.3**
 
-![capa]({{site.baseurl}}//main.jpg)
+![]({{site.baseurl}}/https://raw.githubusercontent.com/ViniciusBRodrigues/TeseUFVLatex/master/main.jpg)
