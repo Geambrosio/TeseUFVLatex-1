@@ -1,5 +1,5 @@
 # TeseUFVLatex
-Modelo de Tese/Disertação da Universidade Federal de Viçosa, Departamento de Entomologia, para LaTeX.
+Modelo de Tese e Disertação da Universidade Federal de Viçosa, para LaTeX.
 
 _Projeto em desenvolvimento._
 
