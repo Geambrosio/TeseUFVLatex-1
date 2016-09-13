@@ -33,7 +33,7 @@ Modelo de Tese e Disertação da Universidade Federal de Viçosa, para LaTeX.
 
 - Mova o seu arquivo de referências _(.bib)_ para o diretório da tese. De preferência, renomeie o seu arquivo para _referencias.bib_ e substitua o arquivo original
 
-- A pasta _capitulos contém os arquivos para o preenchimento com os textos
+- A pasta _capitulos_ contém os arquivos para o preenchimento com os textos
 
 **introducao.tex:** apague o arquivo de exemplo e cole o seu texto. Cuidado para não apagar o cabeçalho original. No cabeçalho, preencha com o seu nome e com o título resumido da tese nos locais indicados. Caso deseje, pode deixar em branco essas opções
 
