@@ -27,6 +27,7 @@ Modelo de Tese e Disertação da Universidade Federal de Viçosa, para LaTeX.
 
 **Não compile nenhum dos arquivos anteriores.**
 
+---
 
 - Coloque todas as figuras e gráficos do seu trabalho na pasta _imagens_
 
@@ -39,6 +40,8 @@ Modelo de Tese e Disertação da Universidade Federal de Viçosa, para LaTeX.
 **cap02.tex:** apague o exemplo e cole o seu texto. Não precisa preencher cabeçalho.
 
 **se necessário, crie outros capítulos.**
+
+---
 
 - Abra o arquivo **main.tex**:
 
