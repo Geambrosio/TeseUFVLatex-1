@@ -53,4 +53,4 @@ confirme o nome do seu arquivo de referências _.bib_;
 
 caso necessário, você pode adicionar um arquivo _.pdf_ com análises estatísticas no fim do arquivo, com o comando **includepdf**.
 
-**compile (o _main_ é o único arquivo que pode ser compilado).
+**compile (o _main_ é o único arquivo que pode ser compilado).**
