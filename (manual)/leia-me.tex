@@ -1,0 +1,46 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil,brazilian]{babel}
+
+%opening
+\title{Manual para o tema de \LaTeX \\ Teses e dissertações - UFViçosa}
+\author{Vinícius Barros Rodrigues\\\texttt{viniciusbrbio@gmail.com}}
+
+\begin{document}
+
+\maketitle
+
+\section*{Como usar:}
+
+\begin{enumerate}
+ \item Inicialmente, preencha as informações dentro da pasta \texttt{preambulo}. Essa pasta contém os seguintes arquivos:
+ \begin{description}
+  \item \textbf{capa.tex}: preencher o seu nome completo, o título da tese, nome do programa, o título (Magister Scientiae ou Doctor Scientiae), cidade e data.
+  \item \textbf{aprovacao.tex}: preencher o seu nome completo, o título da tese, nome do programa, o título (Magister Scientiae ou Doctor Scientiae), data de aprovação e membros da banca. O mês deve ser preenchido por extenso. O nome dos membros \textbf{não} deve conter prof. ou dr.. Caso o número de membros na sua banca for menor ou maior do que o padrão do arquivo, basta modificar as linhas.
+  \item \textbf{dedicatória.tex};
+  \item \textbf{epígrafe.tex};
+  \item \textbf{agradecimentos.tex};
+  \item \textbf{resumo.tex};
+  \item \underline{não compile nenhum dos arquivos anteriores.}
+  \end{description}
+\item coloque todas as figuras e gráficos do seu trabalho na pasta \texttt{imagens};
+\item mova o seu arquivo de referências (.bib) para o diretório da tese. De preferência, renomeie o seu arquivo para ``referencias.bib'' e substitua o arquivo original.
+\item a pasta \texttt{capitulos} contém os arquivos para o preenchimento com os textos:
+  \begin{description}
+    \item \textbf{introducao.tex}: apague o arquivo de exemplo e cole o seu texto. Cuidado para não apagar o cabeçalho original. No cabeçalho, preencha com o seu nome e com o título resumido da tese nos locais indicados. Caso deseje, pode deixar em branco essas opções.
+    \item \textbf{cap02.tex}: apague o exemplo e cole o seu texto. Não precisa preencher cabeçalho.
+    \item \underline{se necessário, crie outros capítulos.}
+   \end{description}
+\item abra o arquivo \texttt{main.tex}:
+\begin{itemize}
+ \item \textit{verifique se todos os pacotes necessários estão instalados no seu sistema};
+\end{itemize}
+\item verifique se os capítulos estão adicionados com o comando \texttt{imput}. Adicione ou remova-os de acordo com sua necessidade;
+\item confirme o nome do seu arquivo de referências \texttt{.bib};
+\item caso necessário, você pode adicionar um arquivo \texttt{.pdf} com análises estatísticas no fim do arquivo, com o comando \texttt{includepdf}.
+\item \underline{compile}. \textbf{Esse é o único arquivo que pode ser compilado}.
+\end{enumerate}
+
+
+
+\end{document}

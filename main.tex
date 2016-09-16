@@ -1,0 +1,92 @@
+%****************************************************************************************************
+% Modelo criado por Vinícius Barros Rodrigues (viniciusbrbio@gmail.com)
+% versão 0.6
+% Setembro 2016
+% Disponível em: https://github.com/ViniciusBRodrigues/TeseUFVLatex
+%****************************************************************************************************
+% Pacotes
+%****************************************************************************************************
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[brazilian,brazil]{babel}
+\usepackage[a4paper,left=4cm,right=3cm,bottom=2.5cm,top=2.8cm]{geometry}
+\usepackage{fancyhdr,setspace,float,graphicx,lscape,array,longtable,colortbl,amsmath,amssymb,booktabs,multirow,hyperref,pdfpages,tocloft,titlesec,natbib,lipsum}
+\renewcommand\cftloftitlefont{\Large\bfseries\hfill}
+\renewcommand\cftlottitlefont{\Large\bfseries\hfill}
+\renewcommand\cfttoctitlefont{\Large\bfseries\hfill}
+\titleformat{\chapter}[display]
+{\vspace*{-0.7cm}\bfseries\Huge}
+{\filleft{\chaptertitlename}\Huge~\thechapter}
+{1ex}
+{\titlerule
+\vspace{2ex}%
+\filright}
+[]
+
+%****************************************************************************************************
+% Fontes Palladio
+\usepackage[sc]{mathpazo}
+\linespread{1.05}
+\usepackage[T1]{fontenc}
+%****************************************************************************************************
+% Coloque suas imagens e gráficos na pasta images
+\graphicspath{{imagens/}}
+%****************************************************************************************************
+
+\begin{document}
+
+%****************************************************************************************************
+% Edite cada um dos seguintes arquivos na pasta "preamble"
+%****************************************************************************************************
+
+\input{preambulo/capa}
+
+\input{preambulo/aprovacao}
+
+\input{preambulo/dedicatoria}
+
+\input{preambulo/epigrafe}
+
+\input{preambulo/agradecimentos}
+
+%****************************************************************************************************
+% Sumário
+\normalsize
+\tableofcontents
+\newpage
+\listoffigures
+\addcontentsline{toc}{section}{\listfigurename}
+\newpage
+\listoftables
+\addcontentsline{toc}{section}{\listtablename}
+%****************************************************************************************************
+
+\input{preambulo/resumo}
+
+%****************************************************************************************************
+% Edite cada um dos seguintes arquivos na pasta "capitulos"
+% Apenas comente ou descomente de acordo com o que precisar
+%****************************************************************************************************
+
+\input{capitulos/introduction}
+%
+\input{capitulos/cap02}
+%
+% se necessário, acrescente outros capítulos;
+% \input{capitulos/cap03}
+
+%****************************************************************************************************
+% Referências
+\clearpage
+\phantomsection
+\addcontentsline{toc}{chapter}{Referências Bibliográficas}
+\bibliographystyle{apalike}
+\bibliography{referencias.bib} %%% nome do seu arquivo .bib
+
+%****************************************************************************************************
+% Análises estatísticas em pdf
+% Descomente e coloque o nome do seu arquivo
+%\includepdf[pages=-]{myfile.pdf}
+%****************************************************************************************************
+  
+\end{document}
